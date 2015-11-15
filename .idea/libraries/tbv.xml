@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tbv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/tbv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Comrella</string>
+    <string name="splash_screen">Cheezy Funny Comics!</string>
+    <string name="share_app">Share App</string>
+    <string name="facebook_app_id">993529804004147</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+
+    <string name="share_app_title">Share Comrella !</string>
+    <color name="white">#FFFFFF</color>
+    <color name="pink">#E8234D</color>
+    <color name="darkpink">#C71E42</color>
+
+
+</resources>

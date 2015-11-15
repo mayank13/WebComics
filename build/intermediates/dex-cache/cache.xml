@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mayank\Documents\dev\WebComics3\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="C:\Users\Mayank\Documents\dev\WebComics3\app\build\intermediates\pre-dexed\debug\classes-10c81ce5deafd519df42698156a1ed8013827caa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mayank\Documents\dev\WebComics3\app\libs\universal-image-loader-1.9.4-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="831368dfdef2c9396955489e9058e6ad8a8e4244">
+        <dex dex="C:\Users\Mayank\Documents\dev\WebComics3\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-SNAPSHOT-4587ea9479437c290c855c9d7e32b23bd162946d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mayank\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Mayank\Documents\dev\WebComics3\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-30a0ed578f7006d121136b49a623fc0afdbe9e72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mayank\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Mayank\Documents\dev\WebComics3\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-5e4cb5476059214e98da4cc4323b5883a36ebf06.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mayank\Documents\dev\WebComics3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Mayank\Documents\dev\WebComics3\app\build\intermediates\pre-dexed\debug\classes-94b27560856e3c433cd73e8cc1fc4372fe3fd4b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mayank\Documents\dev\WebComics3\app\libs\tbv.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e61be9a4a0ab7efe0507590350838b2920f031e6">
+        <dex dex="C:\Users\Mayank\Documents\dev\WebComics3\app\build\intermediates\pre-dexed\debug\tbv-502c8cffc23200c3cca1a20315abe665fdda8d4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mayank\Documents\dev\WebComics3\app\libs\okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="C:\Users\Mayank\Documents\dev\WebComics3\app\build\intermediates\pre-dexed\debug\okhttp-2.3.0-a346045d36e5f4290bfe5fef76f3f0fe117f8308.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mayank\Documents\dev\WebComics3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Mayank\Documents\dev\WebComics3\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-8354996b5a084850b2ce042fd512acae46695854.jar" />
+    </item>
+
+</items>
